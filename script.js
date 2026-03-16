@@ -26,7 +26,7 @@ let myObject = {
     age : 33,
 
     greeting() {
-        conxole.log("Hello my name " + this.name);
+        console.log("Hello my name " + this.name);
     }
 }
 
